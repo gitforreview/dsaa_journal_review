@@ -19,6 +19,8 @@ comb_compas_before_fix.py: accuracy and fairness measure before using fixing alg
 comb_compas_stratified_resample.py: accuracy and fairness measure after using stratified resampling and reweighting with both selection bias and missing values (MAR) using COMPAS data <br>
 comb_compas_unif_resample.py: accuracy and fairness measure after using uniform resampling and reweighting with both selection bias and missing values (MNAR) using COMPAS data <br>
 
+# Usage
+To run the code, run: python3 xxxxx.py
 
 
 # Reference
