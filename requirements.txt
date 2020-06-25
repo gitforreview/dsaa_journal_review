@@ -1,0 +1,14 @@
+# algorithms
+numba>=0.42.0
+lime
+adversarial-robustness-toolbox>=1.0.0
+BlackBoxAuditing
+tensorflow>=1.13.1,<2
+cvxpy>=1.0
+
+# notebooks
+jupyter
+tqdm
+
+# tests
+pytest>=3.5.0

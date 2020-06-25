@@ -1,0 +1,1001 @@
+priors_count,c_charge_degree,race,age_cat,score_text,two_year_recid
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+0,F,0,25 to 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,25 to 45,Low,1
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+0,F,0,25 to 45,MediumHigh,1
+0,F,0,Greater than 45,Low,1
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,25 to 45,Low,1
+0,M,0,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+More than 3,F,1,Less than 25,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,25 to 45,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+1 to 3,M,0,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+0,M,0,Less than 25,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,M,0,25 to 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,Less than 25,Low,1
+1 to 3,M,0,Greater than 45,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+More than 3,F,1,Less than 25,Low,0
+1 to 3,M,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,25 to 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,1
+0,F,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,Low,0
+0,F,1,Less than 25,MediumHigh,1
+More than 3,M,0,Less than 25,MediumHigh,0
+More than 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,1
+0,F,0,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,1,Less than 25,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,MediumHigh,0
+0,M,1,Greater than 45,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+0,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,1
+0,F,0,Greater than 45,Low,0
+More than 3,F,1,Less than 25,MediumHigh,0
+0,F,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,M,0,25 to 45,Low,1
+More than 3,F,0,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,1
+0,F,1,Greater than 45,MediumHigh,1
+More than 3,M,1,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+0,M,1,Greater than 45,MediumHigh,0
+0,M,0,25 to 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,MediumHigh,0
+More than 3,F,1,Less than 25,MediumHigh,0
+0,M,0,25 to 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Less than 25,MediumHigh,1
+More than 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,25 to 45,Low,0
+0,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Less than 25,Low,0
+More than 3,F,1,25 to 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,M,1,Less than 25,Low,0
+More than 3,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,1
+0,F,1,Greater than 45,Low,0
+0,F,1,Less than 25,MediumHigh,0
+1 to 3,F,1,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+0,F,0,25 to 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Less than 25,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,0
+More than 3,M,1,25 to 45,MediumHigh,1
+0,M,1,Less than 25,Low,0
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,25 to 45,Low,1
+0,F,0,Less than 25,Low,0
+0,F,0,25 to 45,Low,0
+More than 3,F,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,Low,1
+0,F,1,Greater than 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,1
+0,F,0,25 to 45,Low,0
+1 to 3,F,0,Less than 25,Low,0
+More than 3,F,1,Less than 25,Low,1
+1 to 3,M,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,Low,1
+More than 3,F,0,Less than 25,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,25 to 45,Low,0
+1 to 3,F,0,25 to 45,Low,1
+1 to 3,F,1,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,Low,0
+0,M,1,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+0,M,0,25 to 45,Low,0
+More than 3,F,0,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+0,M,1,Less than 25,Low,1
+0,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,1
+0,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,F,1,25 to 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,1
+More than 3,M,1,Less than 25,Low,0
+0,M,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+0,F,1,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,Low,1
+1 to 3,F,0,Less than 25,Low,0
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,0
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,Low,0
+More than 3,M,0,Less than 25,Low,1
+0,M,0,Less than 25,Low,1
+1 to 3,M,1,Less than 25,Low,0
+More than 3,F,0,Less than 25,Low,1
+More than 3,F,0,Less than 25,MediumHigh,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,F,1,25 to 45,Low,1
+More than 3,F,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,Low,1
+More than 3,M,1,Less than 25,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,Low,0
+0,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Less than 25,Low,0
+1 to 3,F,0,25 to 45,Low,1
+More than 3,F,1,Greater than 45,Low,0
+0,M,1,Greater than 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,Low,0
+0,F,1,Less than 25,Low,0
+1 to 3,M,1,Less than 25,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,1
+1 to 3,F,1,25 to 45,Low,0
+1 to 3,M,0,Less than 25,MediumHigh,1
+1 to 3,F,1,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Less than 25,MediumHigh,0
+More than 3,M,1,Less than 25,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,M,0,Less than 25,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+1 to 3,M,0,25 to 45,Low,1
+1 to 3,F,1,25 to 45,MediumHigh,1
+1 to 3,F,0,25 to 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+0,F,1,25 to 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,0
+0,M,1,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+More than 3,M,1,Less than 25,Low,1
+More than 3,F,0,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,1
+1 to 3,F,1,Greater than 45,Low,1
+More than 3,F,0,Less than 25,Low,0
+0,F,0,25 to 45,MediumHigh,0
+0,M,1,Less than 25,Low,0
+0,M,1,Greater than 45,Low,1
+More than 3,F,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,Low,1
+0,M,1,Less than 25,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Less than 25,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,1
+0,F,0,Less than 25,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+0,M,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,1,Less than 25,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,M,1,Less than 25,Low,0
+More than 3,F,1,Greater than 45,Low,0
+More than 3,M,0,25 to 45,MediumHigh,1
+More than 3,F,1,Less than 25,Low,1
+0,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+0,F,1,Less than 25,Low,0
+More than 3,F,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,25 to 45,Low,1
+0,M,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,1,25 to 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+0,F,1,25 to 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,1
+1 to 3,M,0,Less than 25,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,0
+0,F,0,25 to 45,Low,0
+0,M,0,25 to 45,Low,1
+1 to 3,M,0,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,25 to 45,Low,0
+1 to 3,F,0,Less than 25,MediumHigh,1
+0,F,0,Greater than 45,Low,0
+0,F,1,25 to 45,Low,1
+1 to 3,M,1,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,1
+More than 3,F,1,25 to 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+0,M,1,Less than 25,Low,1
+1 to 3,M,0,Less than 25,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,0
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,0
+0,M,0,Less than 25,Low,0
+More than 3,M,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,0
+0,M,0,25 to 45,MediumHigh,1
+0,M,1,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+More than 3,F,0,Less than 25,Low,0
+0,M,1,Less than 25,Low,1
+More than 3,M,0,Greater than 45,Low,1
+0,F,1,Greater than 45,Low,0
+0,F,0,Less than 25,MediumHigh,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,Low,0
+More than 3,M,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Less than 25,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,Low,0
+More than 3,F,0,25 to 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+0,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,25 to 45,Low,0
+0,F,1,Greater than 45,Low,1
+0,F,0,25 to 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,1,Less than 25,Low,1
+1 to 3,M,1,Greater than 45,MediumHigh,0
+1 to 3,M,1,25 to 45,MediumHigh,0
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,M,1,Greater than 45,Low,1
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+More than 3,M,1,Less than 25,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,0
+0,F,0,25 to 45,MediumHigh,0
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+0,M,0,25 to 45,Low,0
+0,M,1,Less than 25,Low,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,1
+0,F,1,Greater than 45,Low,0
+1 to 3,M,0,Less than 25,MediumHigh,1
+1 to 3,F,0,Less than 25,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,F,0,Less than 25,Low,0
+More than 3,F,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,1
+0,M,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,0
+0,M,1,25 to 45,Low,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,25 to 45,Low,1
+0,M,1,25 to 45,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,0
+0,F,1,Greater than 45,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+0,M,0,25 to 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,1
+0,M,1,Less than 25,Low,0
+More than 3,M,0,Less than 25,MediumHigh,1
+0,F,1,25 to 45,Low,0
+0,M,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+0,F,0,25 to 45,Low,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,25 to 45,MediumHigh,0
+0,M,0,Less than 25,Low,1
+0,F,0,25 to 45,Low,0
+More than 3,M,0,Less than 25,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,1
+0,M,0,25 to 45,Low,0
+1 to 3,M,1,Greater than 45,Low,1
+0,M,1,Greater than 45,MediumHigh,1
+More than 3,F,1,Less than 25,MediumHigh,1
+0,F,1,Less than 25,Low,0
+1 to 3,M,0,25 to 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,0
+More than 3,M,1,Greater than 45,Low,0
+0,M,1,Less than 25,Low,0
+0,M,0,Greater than 45,Low,1
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,Low,0
+0,M,0,25 to 45,MediumHigh,0
+0,F,1,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,1
+1 to 3,F,1,Greater than 45,Low,0
+0,F,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,25 to 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,1
+1 to 3,M,1,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+More than 3,F,1,Less than 25,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,0,25 to 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+0,F,0,25 to 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,0
+More than 3,M,0,Less than 25,Low,0
+1 to 3,M,1,Greater than 45,MediumHigh,0
+0,F,1,25 to 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,Less than 25,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+0,M,1,25 to 45,MediumHigh,0
+More than 3,M,0,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,25 to 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+0,F,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,1,Less than 25,Low,1
+0,F,0,25 to 45,MediumHigh,0
+0,M,0,Greater than 45,Low,1
+0,M,0,25 to 45,MediumHigh,1
+1 to 3,M,0,25 to 45,MediumHigh,1
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,F,0,25 to 45,Low,1
+0,F,1,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+More than 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,0,Less than 25,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+0,M,1,Less than 25,Low,0
+1 to 3,M,1,Less than 25,Low,1
+More than 3,M,0,25 to 45,MediumHigh,0
+0,M,1,Less than 25,Low,0
+0,M,0,Greater than 45,Low,0
+0,M,0,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,M,1,Less than 25,Low,0
+More than 3,M,0,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,M,0,Less than 25,MediumHigh,0
+More than 3,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,0,Less than 25,Low,0
+More than 3,M,1,Less than 25,Low,1
+0,F,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,25 to 45,MediumHigh,1
+0,F,1,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Less than 25,MediumHigh,1
+More than 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,25 to 45,Low,1
+0,F,0,Greater than 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Less than 25,MediumHigh,0
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,0
+More than 3,M,0,Greater than 45,Low,1
+1 to 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,0,25 to 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+0,M,1,Greater than 45,Low,0
+More than 3,M,0,Less than 25,Low,1
+1 to 3,M,1,Greater than 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,0
+More than 3,M,0,Less than 25,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,1
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,25 to 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,1
+1 to 3,F,0,25 to 45,Low,1
+1 to 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+0,F,1,25 to 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,Low,0
+More than 3,F,1,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,MediumHigh,1
+More than 3,M,1,25 to 45,MediumHigh,0
+1 to 3,F,1,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+1 to 3,M,1,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+0,M,0,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,Low,1
+1 to 3,M,1,25 to 45,MediumHigh,1
+0,M,0,Greater than 45,Low,0
+1 to 3,F,1,25 to 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,1,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,1
+1 to 3,M,1,Greater than 45,Low,0
+1 to 3,M,0,25 to 45,Low,0
+0,M,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,M,0,Greater than 45,Low,0
+0,M,1,Greater than 45,MediumHigh,0
+More than 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,0
+1 to 3,M,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,1,25 to 45,MediumHigh,0
+0,M,0,25 to 45,Low,0
+1 to 3,F,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,0
+0,M,0,Greater than 45,Low,1
+0,M,1,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,Low,1
+1 to 3,M,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,1,Greater than 45,Low,1
+0,F,0,Greater than 45,Low,0
+0,F,1,Greater than 45,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,0
+More than 3,F,1,Less than 25,MediumHigh,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,1
+1 to 3,M,1,Greater than 45,Low,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,25 to 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,M,1,Less than 25,Low,0
+1 to 3,M,1,Less than 25,Low,1
+1 to 3,M,0,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,25 to 45,MediumHigh,0
+0,M,0,25 to 45,Low,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,0,25 to 45,MediumHigh,1
+0,M,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,MediumHigh,1
+More than 3,M,0,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,M,1,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,1,Less than 25,Low,1
+0,M,0,Greater than 45,Low,0
+0,F,1,Greater than 45,Low,0
+0,F,1,25 to 45,MediumHigh,0
+1 to 3,F,0,Less than 25,MediumHigh,0
+0,F,1,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+1 to 3,F,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,Low,0
+0,M,1,Greater than 45,Low,1
+1 to 3,M,1,25 to 45,Low,0
+More than 3,F,0,Less than 25,Low,1
+More than 3,F,1,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+0,M,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,MediumHigh,0
+0,M,0,Greater than 45,Low,0
+0,M,0,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,Low,1
+0,F,1,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,25 to 45,MediumHigh,0
+0,M,1,Less than 25,Low,0
+1 to 3,M,1,Greater than 45,Low,0
+0,M,0,25 to 45,Low,0
+0,F,0,25 to 45,Low,0
+0,F,1,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,F,0,Less than 25,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+0,M,1,Greater than 45,Low,0
+1 to 3,M,1,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+More than 3,M,1,Greater than 45,Low,1
+1 to 3,M,0,25 to 45,Low,0
+0,M,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,1,Greater than 45,Low,0
+0,M,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,0
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,M,0,25 to 45,Low,1
+1 to 3,F,1,Less than 25,Low,1
+0,F,0,25 to 45,Low,1
+1 to 3,M,1,Less than 25,Low,0
+0,F,0,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+1 to 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,Less than 25,Low,0
+More than 3,F,0,Less than 25,MediumHigh,0
+0,F,1,25 to 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,M,0,25 to 45,MediumHigh,1
+More than 3,M,0,Less than 25,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+0,F,1,Greater than 45,Low,0
+0,M,1,Greater than 45,Low,0
+0,M,1,Less than 25,Low,0
+More than 3,M,1,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,Low,1
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,0,Less than 25,MediumHigh,0
+0,F,1,Less than 25,Low,0
+0,F,0,Less than 25,MediumHigh,0
+0,M,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,Low,0
+0,M,1,Less than 25,Low,0
+1 to 3,F,0,Less than 25,Low,0
+0,F,1,25 to 45,MediumHigh,1
+0,M,0,25 to 45,Low,1
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,M,1,Less than 25,Low,0
+0,M,0,25 to 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Less than 25,Low,0
+0,M,1,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+0,M,0,Greater than 45,Low,1
+More than 3,M,0,Greater than 45,Low,1
+0,F,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+0,F,0,25 to 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+0,M,1,Less than 25,Low,0
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,0,Less than 25,Low,0
+1 to 3,M,1,Greater than 45,Low,1
+0,F,0,Greater than 45,Low,0
+More than 3,F,1,Less than 25,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+0,F,1,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+0,F,0,Greater than 45,Low,1
+More than 3,M,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,M,1,25 to 45,Low,1
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Less than 25,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+More than 3,F,1,Less than 25,Low,0
+0,F,1,Greater than 45,Low,0
+0,F,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,M,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,M,0,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,1,Greater than 45,MediumHigh,0
+0,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,25 to 45,Low,0
+1 to 3,F,0,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,1,25 to 45,Low,1
+0,M,1,Less than 25,Low,0
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,M,0,Less than 25,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+0,F,1,25 to 45,Low,1
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,25 to 45,Low,1
+1 to 3,F,1,Less than 25,MediumHigh,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,1,25 to 45,MediumHigh,0
+1 to 3,F,1,25 to 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,0
+0,F,0,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,Low,0
+1 to 3,M,1,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,F,0,Greater than 45,MediumHigh,0
+1 to 3,M,1,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+1 to 3,M,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Greater than 45,MediumHigh,0
+More than 3,F,0,25 to 45,MediumHigh,1
+More than 3,M,0,Greater than 45,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,F,1,25 to 45,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,0
+More than 3,F,0,Less than 25,MediumHigh,1
+More than 3,M,0,Greater than 45,Low,1
+0,M,0,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,MediumHigh,0
+0,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,F,0,Greater than 45,Low,0
+More than 3,F,0,Greater than 45,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+1 to 3,M,0,Greater than 45,Low,0
+1 to 3,M,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,MediumHigh,1
+More than 3,M,1,Less than 25,Low,1
+More than 3,M,1,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+0,M,0,Greater than 45,Low,1
+1 to 3,F,1,Less than 25,Low,0
+More than 3,M,1,Greater than 45,Low,0
+More than 3,M,0,Less than 25,MediumHigh,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,MediumHigh,0
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,F,1,Greater than 45,MediumHigh,1
+1 to 3,F,0,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,0
+1 to 3,F,0,Less than 25,Low,0
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,F,0,Greater than 45,Low,0
+1 to 3,F,0,25 to 45,Low,1
+1 to 3,F,1,25 to 45,MediumHigh,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,Low,0
+1 to 3,F,0,25 to 45,MediumHigh,1
+1 to 3,M,0,Less than 25,Low,0
+0,F,0,25 to 45,MediumHigh,1
+0,M,1,Greater than 45,Low,0
+1 to 3,F,1,Greater than 45,Low,1
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,F,1,Greater than 45,Low,1
+More than 3,M,0,Less than 25,Low,0
+0,F,1,Less than 25,MediumHigh,1
+1 to 3,F,0,Greater than 45,Low,1
+0,M,1,Greater than 45,Low,0
+0,M,0,25 to 45,Low,0
+1 to 3,F,0,Greater than 45,Low,0
+More than 3,M,1,Less than 25,Low,1
+More than 3,F,0,Greater than 45,MediumHigh,1
+0,F,1,Less than 25,MediumHigh,0
+1 to 3,M,0,25 to 45,MediumHigh,1
+More than 3,M,1,Greater than 45,MediumHigh,1
+More than 3,M,0,Greater than 45,MediumHigh,0
+1 to 3,M,0,Less than 25,MediumHigh,0
+More than 3,M,1,Greater than 45,MediumHigh,0
+0,F,0,Greater than 45,Low,0
+1 to 3,M,1,Less than 25,Low,1
+More than 3,F,0,Less than 25,MediumHigh,1
+1 to 3,F,1,Greater than 45,Low,1
