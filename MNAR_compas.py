@@ -31,7 +31,8 @@ import os
 import pandas as pd
 
 from aif360.datasets import StandardDataset
-
+import warnings
+warnings.simplefilter("ignore")
 
 
 def get_distortion_compas(vold, vnew):
