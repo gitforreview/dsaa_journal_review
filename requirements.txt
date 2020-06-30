@@ -12,3 +12,6 @@ tqdm
 
 # tests
 pytest>=3.5.0
+
+pandas
+sklearn
